@@ -32,4 +32,4 @@ yes.
 
 ## huh
 
-this list came out of a discussion at the [Recurse Center](https://www.recurse.com/). I've been making [stuff there](https://recurse.greg.technology/).
+this list came out of a discussion at the [Recurse Center](https://www.recurse.com/). I've been making [stuff](https://recurse.greg.technology/) there.
