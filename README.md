@@ -10,7 +10,7 @@ yeah no exactly, it's a meaningless way of describing companies. I mean awesome 
 
 awesome companies are companies that do awesome work, have awesome people, and are fun and pleasant to work at.
 
-it's something about whether projects are fun/playful, whether it's contributing to making the world a better/more beautiful/more quirky place (or is it about squeezing out some delta from the alpha from the - you know, making something more efficient in a way that makes everything slighly more terrible)
+it's something about whether projects are fun/playful, whether that company is contributing to making the world a better, more beautiful, more quirky and delightful place (or is it about squeezing out more delta from the alpha from the - you know, making something more efficient in a way that makes everything slighly more terrible)
 
 ## so it's so subjective that you don't really know
 
