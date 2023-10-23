@@ -29,6 +29,7 @@ yes.
 | [Panic](https://panic.com/) | Portland, OR |
 | [Rogue Amoeba](https://rogueamoeba.com/) | Boston, MA |
 | [teenage engineering](https://teenage.engineering/) | Stockholm, Sweden |
+| Polyend | Olsztyn, Poland |
 
 ## huh
 
