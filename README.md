@@ -6,12 +6,12 @@ a completely subjective, incomplete, maybe even totally incorrect (I mean probab
 
 yes.
 
-| company | location |
-| --- | ---|
-| [Panic](https://panic.com/) | Portland, OR |
-| [Rogue Amoeba](https://rogueamoeba.com/) | Boston, MA |
-| [teenage engineering](https://teenage.engineering/) | Stockholm, Sweden |
-| Polyend | Olsztyn, Poland |
+| company | location | jobs |
+| --- | --- | --- |
+| [Panic](https://panic.com/) | Portland, OR | https://panic.com/jobs/ |
+| [Rogue Amoeba](https://rogueamoeba.com/) | Boston, MA | https://rogueamoeba.com/company/jobs/ |
+| [teenage engineering](https://teenage.engineering/) | Stockholm, Sweden | https://careers.teenage.engineering/ |
+| [Polyend](https://polyend.com/) | Olsztyn, Poland | https://polyend.com/jobs/ |
 
 ## I need more information - what's "awesome"?, how do you even define that
 
