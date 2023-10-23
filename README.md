@@ -29,3 +29,7 @@ yes.
 | [Panic](https://panic.com/) | Portland, OR |
 | [Rogue Amoeba](https://rogueamoeba.com/) | Boston, MA |
 | [teenage engineering](https://teenage.engineering/) | Stockholm, Sweden |
+
+## huh
+
+this list came out of a discussion at the [Recurse Center](https://www.recurse.com/). I've been making [stuff there](https://recurse.greg.technology/).
