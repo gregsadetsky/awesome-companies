@@ -2,7 +2,18 @@
 
 a completely subjective, incomplete, maybe even totally incorrect (I mean probably not totally...), list of companies that seem awesome. to me.
 
-## what's awesome, how do you even define that
+## ok can you show me the list then
+
+yes.
+
+| company | location |
+| --- | ---|
+| [Panic](https://panic.com/) | Portland, OR |
+| [Rogue Amoeba](https://rogueamoeba.com/) | Boston, MA |
+| [teenage engineering](https://teenage.engineering/) | Stockholm, Sweden |
+| Polyend | Olsztyn, Poland |
+
+## I need more information - what's "awesome"?, how do you even define that
 
 yeah no exactly, it's a meaningless way of describing companies. I mean awesome means they're not terrible, but what's "terrible"? like... what if Enron's work-life balance was actually excellent... errrr sorry
 
@@ -19,17 +30,6 @@ I mean, """""I know when I see it"", but applied to tech-y-ish companies? sure, 
 awesome companies.
 
 companies that are not dreadful. but more than that. cause that's too low of a bar...
-
-## ok can you show me the list then
-
-yes.
-
-| company | location |
-| --- | ---|
-| [Panic](https://panic.com/) | Portland, OR |
-| [Rogue Amoeba](https://rogueamoeba.com/) | Boston, MA |
-| [teenage engineering](https://teenage.engineering/) | Stockholm, Sweden |
-| Polyend | Olsztyn, Poland |
 
 ## huh
 
