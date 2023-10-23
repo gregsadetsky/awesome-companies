@@ -1,6 +1,6 @@
 ## what is this
 
-a completely subjective, incomplete, maybe even totally incorrect (I mean probably not totally...), list of companies that seem awesome. to me.
+a completely subjective, incomplete, maybe even totally incorrect (I mean probably not totally...), list of companies that it would be awesome to work at.
 
 ## ok can you show me the list then
 
