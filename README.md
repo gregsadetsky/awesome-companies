@@ -14,7 +14,7 @@ it's something about whether projects are fun/playful, whether that company is c
 
 ## so it's so subjective that you don't really know
 
-I mean, """""I know when I see it", but applied to tech-y-ish companies? sure, there will be disagreements and that's fine. but you know.
+I mean, """""I know when I see it"", but applied to tech-y-ish companies? sure, there will be disagreements and that's fine. but you know.
 
 awesome companies.
 
