@@ -4,7 +4,7 @@ a completely subjective, incomplete, maybe even totally incorrect (I mean probab
 
 ## what's awesome, how do you even define that
 
-yeah no exactly, it's a meaningless way of describing companies. I mean awesome means they're not terrible, but what's "terrible"? like... what if Enron's work family balance was actually excellent... errrr sorry
+yeah no exactly, it's a meaningless way of describing companies. I mean awesome means they're not terrible, but what's "terrible"? like... what if Enron's work-life balance was actually excellent... errrr sorry
 
 ## uhh could you explain that again without the weird Enron analogy
 
